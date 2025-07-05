@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 73.0681,
+        "lat": 33.6743
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 313.12,
+        "feels_like": 315.37,
+        "temp_min": 313.12,
+        "temp_max": 313.12,
+        "pressure": 1002,
+        "humidity": 28,
+        "sea_level": 1002,
+        "grnd_level": 928
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.45,
+        "deg": 105,
+        "gust": 2.68
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1747470428,
+    "sys": {
+        "type": 2,
+        "id": 2007435,
+        "country": "PK",
+        "sunrise": 1747440349,
+        "sunset": 1747490558
+    },
+    "timezone": 18000,
+    "id": 1176615,
+    "name": "Islamabad",
+    "cod": 200
+}
